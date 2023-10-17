@@ -1,4 +1,4 @@
-# Time Series Forecasting Readme
+# Time Series - Forecasting
 ## Table of Contents
 - Introduction
 - Prerequisites
@@ -32,7 +32,7 @@ To begin, you need historical time series data. Ensure your data is properly for
 - Exploratory Data Analysis (EDA)
 Exploratory Data Analysis is essential to understand your time series data. Visualize the data, identify trends, seasonality, and any outliers. This will guide your model selection and feature engineering.
 
-- 4. Time Series Forecasting Models
+## 4. Time Series Forecasting Models
 There are various time series forecasting models to choose from. We categorize them into three groups:
 
 ## Classical Models
